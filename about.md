@@ -85,7 +85,7 @@ title: 个人简历
 </strong>
 <p>
 <p style="color:blue">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#开发
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#开发
 <p>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分教师、管理员、学生三种角色。包括选课、发布课程、审核、课表、发布成绩等功能。
 特别添加了选课的人数限制，时间先后等限制条件，使得程序的实际可用性更高
@@ -95,7 +95,7 @@ title: 个人简历
 .快乐柠檬进销存管理系统
 </strong>
 <p>
-<p>
+<p style="color:blue">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#开发
 <p>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;该软件包含饮料商品进货，商品展示、商品销售、生成订单等完整的进销存功能。
@@ -108,7 +108,7 @@ title: 个人简历
 .阔叶林心理平台
 </strong>
  <p>
- <p>
+ <p style="color:blue">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;微信小程序与web网页后端、Java
  <p>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;该平台分为管理员、心理医师、志愿者、普通用户四个身份。心理医师和志愿者在微信小程序平台进行注册，管理员在web端进行审核
@@ -119,7 +119,7 @@ title: 个人简历
 .互联网热词统计
   </strong>
  <p>
-<p>
+<p style="color:blue">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“大数据项目”、puthon、java
 <p>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从百度百科爬取“互联网”相关词条、词条解释及相关链接，通过jieba分词进行词频统计、连接个词条之间的关系，
@@ -130,7 +130,7 @@ title: 个人简历
 .企业图谱分析
   </strong>
  <p>
-<p>
+<p style="color:blue">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“大数据项目”、puthon、java、spark
  <p>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根据爬取的企业信息、通过模糊检索搜索企业信息、分析企业的股东关系、子公司进行可视化显示。
@@ -140,7 +140,7 @@ title: 个人简历
 .公共地点人流量监测
   </strong>
  <p>
-<p>
+<p style="color:blue">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“机器学习项目”、python
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在公共场所人数密集的边缘区域通过摄像头采集人流和地点的视屏数据，边缘端视频处理识别人流量（即人头数）
