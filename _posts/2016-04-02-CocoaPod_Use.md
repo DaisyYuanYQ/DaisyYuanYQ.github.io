@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CocoaPods使用心得
-date: 2016-04-02
+date: 2018-04-02
 tag: iOS 
 --- 
 
@@ -170,11 +170,4 @@ Demo.xcworkspace 、Podfile 、Podfile.lock 、Pods
 
 <br>
 
-转载请注明：[潘柏信的博客](http://baixin) » [点击阅读原文](http://baixin.io/2016/04/CocoaPod_Use/)     
-
-
-
-
-
-
-
+转载请注明：[DaisyYuan的博客](http://baixin)
