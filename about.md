@@ -85,7 +85,7 @@ title: 个人简历
 </strong>
 <p>
 <p style="color:blue">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#开发
+ C#开发
 <p>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分教师、管理员、学生三种角色。包括选课、发布课程、审核、课表、发布成绩等功能。
 特别添加了选课的人数限制，时间先后等限制条件，使得程序的实际可用性更高
